@@ -1,10 +1,12 @@
 # AD-KGE
 
+我们的论文“[基于知识图谱嵌入的阿尔茨海默病药物重定位研究](https://jcpu.cpu.edu.cn/cn/article/doi/10.11665/j.issn.1000-5048.2023040305)”的代码。
+
 ## 介绍
 
 利用知识图谱嵌入模型研究阿尔茨海默病的药物重定位.
 
-该工作已被期刊录用, 不久将会发表.
+该工作已被[中国药科大学学报](https://jcpu.cpu.edu.cn/)录用, 不久将会发表.
 
 ## 数据
 
@@ -96,6 +98,36 @@ $ pip install -r requirements.txt
       - [result](code/03-repurpose/results/): 保存上面脚本的结果.
       
       - [05_calculate_overlap.ipynb](code/03-repurpose/05_calculate_overlap.ipynb): 该脚本计算了四个个预训练模型 (transE_l1, transE_l2, ComplEx, rotatE) 药物重定位 (Alzheimer's disease) 结果重叠情况.
+    
+## 引用
+
+如果您发现 AD-KGE 对您的研究有用，请考虑引用以下论文：
+
+```
+@article{ZGYD202303009,
+
+ author = {卢艳峰 and 杨思瀚 and 莫鸿仪 and 侯凤贞},
+
+ title = {基于知识图谱嵌入的阿尔茨海默病药物重定位研究},
+
+ journal = {中国药科大学学报},
+
+ volume = {54},
+
+ number = {03},
+
+ pages = {344-354},
+
+ year = {2023},
+
+ issn = {1000-5048},
+
+ doi ={10.11665/j.issn.1000-5048.2023040305}
+
+ }
+```
+
+该仓库主要由[Yanfeng Lu](https://github.com/LuYF-Lemon-love)，[Fengzhen Hou](https://github.com/houfz-cpu)提供（按按时间顺序排列）。
 
 ## Reference
 

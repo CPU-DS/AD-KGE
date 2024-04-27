@@ -127,7 +127,7 @@ $ pip install -r requirements.txt
  }
 ```
 
-该仓库主要由[Yanfeng Lu](https://github.com/LuYF-Lemon-love)，[Fengzhen Hou](https://github.com/houfz-cpu)提供（按按时间顺序排列）。
+该仓库主要由[Yanfeng Lu](https://github.com/LuYF-Lemon-love)，[Fengzhen Hou](https://github.com/houfz-cpu)提供（按时间顺序排列）。
 
 ## Reference
 

@@ -134,3 +134,5 @@ $ pip install -r requirements.txt
 [1] Drug Repurposing Knowledge Graph (DRKG), link: https://github.com/gnn4dr/DRKG .
 
 [2] OpenKE: An Open Toolkit for Knowledge Embedding, link: https://github.com/thunlp/OpenKE .
+
+[3] DGL-KE: Training Knowledge Graph Embeddings at Scale, link: https://github.com/awslabs/dgl-ke .
